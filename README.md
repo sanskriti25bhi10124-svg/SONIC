@@ -6,7 +6,7 @@
 
 Rather than recreating Spotify, Sonic focuses on the **discovery experience**: finding the right song for the right moment.
 
-🔗 **Live Demo:** [Add your Vercel URL here]
+🔗 **Live Demo:** https://sonic-emd7ya0j3-sanskriti25bhi10124-svg.verce
 
 ---
 
